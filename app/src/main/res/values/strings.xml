@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Evidenta_masina</string>
+    <string name="title_Proprietar">Proprietar</string>
+    <string name="title_Masina">Masina</string>
+    <string name="title_Act">Act</string>
+    <string name="Proprietar">Button</string>
+    <string name="adaugare">Adaugare</string>
+    <string name="stergere">Stergere</string>
+    <string name="cautare">Cautare</string>
+    <string name="Afisare">AFISARE</string>
+</resources>
